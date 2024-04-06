@@ -1,0 +1,14 @@
+C:\Users\AndréMeyer\OneDrive - SMART CONSULTING\Área de Trabalho\Trabalho Threads\ScanFoodsClient\ScanFoodsClient\bin\Debug\net8.0\ScanFoodsClient.exe
+C:\Users\AndréMeyer\OneDrive - SMART CONSULTING\Área de Trabalho\Trabalho Threads\ScanFoodsClient\ScanFoodsClient\bin\Debug\net8.0\ScanFoodsClient.deps.json
+C:\Users\AndréMeyer\OneDrive - SMART CONSULTING\Área de Trabalho\Trabalho Threads\ScanFoodsClient\ScanFoodsClient\bin\Debug\net8.0\ScanFoodsClient.runtimeconfig.json
+C:\Users\AndréMeyer\OneDrive - SMART CONSULTING\Área de Trabalho\Trabalho Threads\ScanFoodsClient\ScanFoodsClient\bin\Debug\net8.0\ScanFoodsClient.dll
+C:\Users\AndréMeyer\OneDrive - SMART CONSULTING\Área de Trabalho\Trabalho Threads\ScanFoodsClient\ScanFoodsClient\bin\Debug\net8.0\ScanFoodsClient.pdb
+C:\Users\AndréMeyer\OneDrive - SMART CONSULTING\Área de Trabalho\Trabalho Threads\ScanFoodsClient\ScanFoodsClient\obj\Debug\net8.0\ScanFoodsClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AndréMeyer\OneDrive - SMART CONSULTING\Área de Trabalho\Trabalho Threads\ScanFoodsClient\ScanFoodsClient\obj\Debug\net8.0\ScanFoodsClient.AssemblyInfoInputs.cache
+C:\Users\AndréMeyer\OneDrive - SMART CONSULTING\Área de Trabalho\Trabalho Threads\ScanFoodsClient\ScanFoodsClient\obj\Debug\net8.0\ScanFoodsClient.AssemblyInfo.cs
+C:\Users\AndréMeyer\OneDrive - SMART CONSULTING\Área de Trabalho\Trabalho Threads\ScanFoodsClient\ScanFoodsClient\obj\Debug\net8.0\ScanFoodsClient.csproj.CoreCompileInputs.cache
+C:\Users\AndréMeyer\OneDrive - SMART CONSULTING\Área de Trabalho\Trabalho Threads\ScanFoodsClient\ScanFoodsClient\obj\Debug\net8.0\ScanFoodsClient.dll
+C:\Users\AndréMeyer\OneDrive - SMART CONSULTING\Área de Trabalho\Trabalho Threads\ScanFoodsClient\ScanFoodsClient\obj\Debug\net8.0\refint\ScanFoodsClient.dll
+C:\Users\AndréMeyer\OneDrive - SMART CONSULTING\Área de Trabalho\Trabalho Threads\ScanFoodsClient\ScanFoodsClient\obj\Debug\net8.0\ScanFoodsClient.pdb
+C:\Users\AndréMeyer\OneDrive - SMART CONSULTING\Área de Trabalho\Trabalho Threads\ScanFoodsClient\ScanFoodsClient\obj\Debug\net8.0\ScanFoodsClient.genruntimeconfig.cache
+C:\Users\AndréMeyer\OneDrive - SMART CONSULTING\Área de Trabalho\Trabalho Threads\ScanFoodsClient\ScanFoodsClient\obj\Debug\net8.0\ref\ScanFoodsClient.dll
